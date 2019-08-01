@@ -16,7 +16,7 @@ enhance the understanding of results.
 Team Name:
 
 Team Members:
--Seth Michel, 011532279
--Brandon Davison, 
--Melisa, 
--Vanden Matkovich, 
+-Seth Michel
+-Brandon Davison
+-Melisa
+-Vanden Matkovich
